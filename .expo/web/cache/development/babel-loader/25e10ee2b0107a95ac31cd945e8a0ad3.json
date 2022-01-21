@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var mobileLink = \"http://192.168.1.7:8000/\";","map":{"version":3,"sources":["C:/Users/HP User/native7/cheffy-app-client/links.js"],"names":["mobileLink"],"mappings":"AAAA,OAAO,IAAMA,UAAU,GAAC,0BAAjB","sourcesContent":["export const mobileLink=\"http://192.168.1.7:8000/\"\r\n"]},"metadata":{},"sourceType":"module"}
